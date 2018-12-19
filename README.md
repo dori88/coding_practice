@@ -1,2 +1,3 @@
-# coding_practice
-Collection of coding practices done
+Coding Practice
+======================
+A repository to collect some of the coding examples / practices I have done.
